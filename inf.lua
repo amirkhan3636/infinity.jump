@@ -1,1 +1,0 @@
-print('GasMask On TOP')
